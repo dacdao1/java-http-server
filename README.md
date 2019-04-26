@@ -8,9 +8,9 @@ Below is the Java output when I run the command
 java HTTPserverCreated
 ```
 
-[Java output](java_output.PNG)
+[Java output](https://github.com/dacdao1/java-http-server/blob/master/java_output.PNG)
 
 
 Below will be the output on the browser that is currently on the link http://localhost:8080/.
 
-[output](output.PNG)
+[output](https://github.com/dacdao1/java-http-server/blob/master/output.PNG)
