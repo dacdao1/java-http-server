@@ -15,7 +15,7 @@ public class HTTPserverCreated
       {
         String helloWorld = "hello user";
         Date today = new Date();
-        String httpResponse = "HTTP/1.1 200 OK\r\n\r\n" + today + "" +helloWorld; socket.getOutputStream().write(httpResponse.getBytes("UTF-8"));
+        String httpResponse = "HTTP/1.1 200 OK\r\n\r\n" + today + " " +helloWorld; socket.getOutputStream().write(httpResponse.getBytes("UTF-8"));
       }
     }
   }
